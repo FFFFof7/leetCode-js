@@ -9,3 +9,4 @@ test('135', () => {
   expect(candy([1,0,2])).toBe(5)
   expect(candy([1,2,2])).toBe(4)
 })
+
